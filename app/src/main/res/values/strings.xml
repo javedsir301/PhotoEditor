@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="all_in_one_editor">All-In-One Editor</string>
+    <string name="pico">Pico</string>
+    <string name="edit">Edit</string>
+    <string name="camera">Camera</string>
+    <string name="todo">TODO</string>
+    <string name="todo_2">TODO</string>
+    <string name="todo_3">TODO</string>
+    <string name="todo_4">TODO</string>
+    <string name="todo_5">TODO</string>
+    <string name="todo_6">TODO</string>
+    <string name="todo_7">TODO</string>
+    <string name="todo_8">TODO</string>
+    <string name="todo_9">TODO</string>
+    <string name="todo_10">TODO</string>
+</resources>
